@@ -1,7 +1,7 @@
 ![alt text][logo]
 
 [logo]: https://github.com/satushsinha/Authorship-Identification/blob/main/images/Author.png "Authorship Identification of Micro-text using Capsule Network"
-# Authorship Identification of Micro-text using Capsule Network 
+# Authorship Identification of Microtext Using Capsule Network 
 ### Author's
 + chanchal Suman
 + Ayush Raj
@@ -39,3 +39,6 @@ Character Unigram is constructed for text then it is given to the input layer of
 **Dataset with varying number of tweets:**
 |50 Tweets | 100 Tweets | 200 Tweets | 500 Tweets | 1000 Tweets |
 | --- | ---- | ----| ---- |----|
+
+
+### Supplementary file required for the main paper
