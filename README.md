@@ -1,8 +1,7 @@
 ![alt text][logo]
 
 [logo]: https://github.com/satushsinha/Authorship-Identification/blob/main/images/Author.png "Authorship Identification of Micro-text using Capsule Network"
-# This github Repository contains the osurce codes required for reproducing the results shown in the paper
-# Authorship Identification of Microtext Using Capsule Network , accepted in IEEE Transactions of Computational Social systems, 2021.
+# This github Repository contains the osurce codes required for reproducing the results shown in the paper, "Authorship Identification of Microtext Using Capsule Networks" , accepted in IEEE Transactions of Computational Social systems, 2021.
 ### Author's
 + chanchal Suman
 + Ayush Raj
