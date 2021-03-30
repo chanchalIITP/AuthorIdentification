@@ -41,4 +41,4 @@ Character Unigram is constructed for text then it is given to the input layer of
 | --- | ---- | ----| ---- |----|
 
 
-### Supplementary file required for the main paper
+### Supplementary file required for the main paper: supplementary-file.pdf
